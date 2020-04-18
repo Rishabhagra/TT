@@ -2,5 +2,5 @@ const t ='rishabh';
 if (t=='rishabh'){
     console.log("yes")
   } else {
-    console.log('no')
+    console.log('n0')
   }
